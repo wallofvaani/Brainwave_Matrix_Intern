@@ -9,7 +9,7 @@ This project is a fully functional ATM system built using Java. It allows users 
 ✔️ View Transaction History<br/>
 ✔️ Exit System Gracefully<br/>
 
-Technologies Used<br/>
+💻 Technologies Used<br/>
 -> Java (Core Java, OOP Concepts)<br/>
 -> Exception Handling<br/>
 
